@@ -2,7 +2,7 @@ package ru.geekbrains.motuzok.geekuniversity.java.lesson5;
 
 import java.util.Arrays;
 
-public class level2lesson5 {
+public class homework5 {
 
     static final int size = 10000000;
     static final int h = size / 2;
